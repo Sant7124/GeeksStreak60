@@ -1,3 +1,5 @@
+//Mean of range in array
+
 class Solution {
 public:
     vector<int> findMean(vector<int>& arr, vector<vector<int>>& queries) {
